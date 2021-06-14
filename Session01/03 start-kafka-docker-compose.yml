@@ -7,7 +7,7 @@ services:
     hostname: zookeeper
     ports:
       - 2181:2181
-    environment::
+    environment:
       ZOO_MY_ID: 1
   kafka:
     image: wurstmeister/kafka
