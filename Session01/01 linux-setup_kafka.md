@@ -11,7 +11,7 @@ tar -xvf kafka_2.12-2.8.0.tgz
 
 ### 3. Navigate to the Kafka directory
 ```
-cd /home/km/Downloads/kafka_2.12-2.8.0
+cd /home/vm/Downloads/kafka_2.12-2.8.0
 ```
 
 ### 4. this should show JDK 8
