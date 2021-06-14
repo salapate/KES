@@ -36,7 +36,7 @@ bin/kafka-topics.sh
 ### 8.  We shall now edit append a new path to the existing path file by editing .bashrc in the home folder
 
 > 1. Run the command `nano ~/.bashrc`
-> 2. Go to the bottom of the file an add the following line: `export PATH=/home/km/Downloads/kafka_2.12-2.8.0/bin:$PATH`
+> 2. Go to the bottom of the file an add the following line: `export PATH=/home/vm/Downloads/kafka_2.12-2.8.0/bin:$PATH`
 > 3. Save the file
 
 ### 9. Test whether your changes were successful 
